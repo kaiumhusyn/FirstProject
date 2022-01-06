@@ -13,6 +13,7 @@ h1 {
 
 .flexible-container {
   display: flex;
+  margin-bottom: 100px;
 }
 
 .half-width {
@@ -22,7 +23,7 @@ h1 {
 }
 
 .half-width img {
-  width: 70%;
+  width: 50%;
 }
 
 .SideLine {
@@ -56,4 +57,29 @@ h1 {
 .mission img {
   height: 30%;
   width: 30%;
+}
+
+.thirdPort {
+  text-align: left;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 300px;
+  background-position: middle;
+}
+
+.thirdPort img {
+  height: 350px;
+  width: 350px;
+}
+
+.forthport {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: 1000px 220px;
+}
+
+.forthport img {
+  height: 350px;
+  width: 350px;
 }
