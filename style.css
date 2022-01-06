@@ -25,6 +25,9 @@ h1 {
 .half-width img {
   width: 50%;
 }
+#backimg {
+  background-image: url(images/shapes/shape-4.png);
+}
 
 .SideLine {
   border-left: 5px solid;
@@ -82,4 +85,20 @@ h1 {
 .forthport img {
   height: 350px;
   width: 350px;
+}
+
+#ironMan {
+  color: red;
+}
+
+#Tony {
+  height: 350px;
+  width: 350px;
+  border-radius: 60px;
+}
+
+.footer {
+  text-align: center;
+  color: pink;
+  background-color: rgb(2, 22, 22);
 }
